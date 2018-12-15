@@ -1,0 +1,75 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Crashlytics (3.10.9):
+    - Fabric (~> 1.7.13)
+  - DropDown (2.3.2)
+  - Fabric (1.7.13)
+  - Font-Awesome-Swift (1.7.2)
+  - IQKeyboardManagerSwift (5.0.0)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/ReactiveSwift (11.0.2):
+    - Moya/Core
+    - ReactiveSwift (~> 3.0)
+  - ReactiveSwift (3.1.0):
+    - Result (~> 3.2)
+  - Realm (3.11.0):
+    - Realm/Headers (= 3.11.0)
+  - Realm/Headers (3.11.0)
+  - RealmSwift (3.11.0):
+    - Realm (= 3.11.0)
+  - Result (3.2.4)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Crashlytics
+  - DropDown (= 2.3.2)
+  - Fabric
+  - Font-Awesome-Swift (~> 1.7.2)
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - Moya/ReactiveSwift (~> 11.0)
+  - RealmSwift
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Crashlytics
+    - DropDown
+    - Fabric
+    - Font-Awesome-Swift
+    - IQKeyboardManagerSwift
+    - Moya
+    - ReactiveSwift
+    - Realm
+    - RealmSwift
+    - Result
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Crashlytics: 55e24fc23989680285a21cb1146578d9d18e432c
+  DropDown: 7f87abecc28f9b4edad810fe1211c5c018c257e5
+  Fabric: 25d0963b691fc97be566392243ff0ecef5a68338
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  ReactiveSwift: 5b26d2e988fe0eed2daf48c4054d1de74db50184
+  Realm: 92f09a102692b96a9a10e9617f214f15c5ab85fc
+  RealmSwift: 5f0481cd658bb751c509314b964a35eaa264d2cf
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: e34dacc78794c4ff5e2a6ceecd892307248bd6f7
+
+COCOAPODS: 1.5.3
